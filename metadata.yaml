@@ -1,0 +1,37 @@
+_repo: Aada-Wilde-b-Norjalaisen-naisen-kohtaloa_71364
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hahl, Jalmari
+    alias: Hahl, J.
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '8054'
+    url: http://www.gutenberg.org/2009/agents/8054
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Hahl
+creator:
+  author:
+    agent_name: Krag, Thomas Peter
+    alias: Krag, Thomas P.
+    birthdate: 1868
+    deathdate: 1913
+    gutenberg_agent_id: '48704'
+    url: http://www.gutenberg.org/2009/agents/48704
+    wikipedia: https://fi.wikipedia.org/wiki/Thomas_P._Krag
+description: ''
+gutenberg_issued: '2023-08-08'
+identifiers:
+  gutenberg: '71364'
+language: fi
+pgterms:marc905: 20230721091222krag
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bYrjö Weilin & Kumpp., $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aada Wilde : $b Norjalaisen naisen kohtaloa'
+url: http://www.gutenberg.org/ebooks/71364
