@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8054'
     url: http://www.gutenberg.org/2009/agents/8054
     wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Hahl
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krag, Thomas Peter
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48704
     wikipedia: https://fi.wikipedia.org/wiki/Thomas_P._Krag
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71364#Aada-Wilde-b-Norjalaisen-naisen-kohtaloa
 gutenberg_issued: '2023-08-08'
 identifiers:
   gutenberg: '71364'
